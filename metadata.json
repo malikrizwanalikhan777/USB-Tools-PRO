@@ -1,0 +1,6 @@
+{
+  "name": "USB Tools Pro",
+  "description": "Professional Android USB utility for device information and storage management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
